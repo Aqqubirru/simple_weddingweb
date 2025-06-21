@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS%20%7C%20JavaScript-blue" alt="Frontend stack" />
-  <img src="https://img.shields.io/badge/Deployed-GitHub%20Pages-green" alt="Deployed on GitHub Pages" />
+  <img src="https://img.shields.io/badge/Status-green" alt="Done" />
 </p>
 
 ---
