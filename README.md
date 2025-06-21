@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS%20%7C%20JavaScript-blue" alt="Frontend stack" />
-  <img src="https://img.shields.io/badge/Status-green" alt="Done" />
+  <img src="https://img.shields.io/badge/Status-Done-green" />
 </p>
 
 ---
