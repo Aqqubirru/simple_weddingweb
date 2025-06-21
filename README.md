@@ -1,11 +1,37 @@
-Source code for our wedding website 👫 (https://we.shyamjos.com/) , Based on HTML theme https://freehtml5.co/wedding-free-html5-bootstrap-template-for-wedding-websites
+<h1 align="center">💍 Simple Wedding Website</h1>
+<h3 align="center">A beautifully crafted wedding invitation website using HTML, CSS & JavaScript</h3>
 
-To set the countdown date see below section in `js/clock.js`
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS%20%7C%20JavaScript-blue" alt="Frontend stack" />
+  <img src="https://img.shields.io/badge/Deployed-GitHub%20Pages-green" alt="Deployed on GitHub Pages" />
+</p>
 
-````
-  // Target future date/24 hour time/Timezone
-  let targetDate = moment.tz("2023-10-29 12:00", "Asia/Kolkata");
-````
+---
 
-## Sreenshot
-![screenshot](https://repository-images.githubusercontent.com/698651028/d9cbed4d-10e2-44bd-bca8-e26a251ff182)
+## 🎯 Overview
+
+Ini adalah website undangan pernikahan sederhana yang menampilkan:
+
+- 📅 Tanggal dan lokasi acara
+- ❤️ Cerita cinta si pengantin
+- 📷 Galeri foto moment special
+- 🎵 Musik tema romantis (opsional)
+- 📎 Form RSVP untuk konfirmasi tamu
+
+---
+
+## 💻 Tech Stack
+
+- HTML5
+- CSS3 (Bootstrap)
+- Vanilla JavaScript untuk interaktivitas (popup, slider galeri, dsb.)
+
+---
+
+## 🛠️ How to Run Locally
+
+1. Clone repo ini:
+```bash
+git clone https://github.com/USERNAME/REPO_NAME.git
+cd REPO_NAME
+  
