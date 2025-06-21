@@ -37,14 +37,7 @@ Ini adalah website undangan pernikahan sederhana yang menampilkan:
 
 🎵 TikTok: <a href="https://www.tiktok.com/@zebiel21" target="_blank">@zeeb_21</a>
 
-## Funfact
+## ✍️ Fun fact
 
-ini adalah template open source yang ada di Github, namun saya edit lagi dan saya ubah menjadi pernikahan Kakak saya karena pada saat itu Kakak saya akan menikah Pada Tanggal 22 Desember 2024
-
-## 🛠️ How to Run Locally
-
-1. Clone repo ini:
-```bash
-git clone https://github.com/USERNAME/REPO_NAME.git
-cd REPO_NAME
+ini adalah template open source yang ada di Github, namun saya ubah lagi lebih banyak untuk pernikahan Kakak saya, karena pada saat itu Kakak saya menikah Pada Tanggal 22 Desember 2024.
   
