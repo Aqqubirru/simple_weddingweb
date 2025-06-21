@@ -13,7 +13,6 @@
 Ini adalah website undangan pernikahan sederhana yang menampilkan:
 
 - 📅 Tanggal dan lokasi acara
-- ❤️ Cerita cinta si pengantin
 - 📷 Galeri foto moment special
 - 🎵 Musik tema romantis (opsional)
 - 📎 Form RSVP untuk konfirmasi tamu
@@ -27,6 +26,20 @@ Ini adalah website undangan pernikahan sederhana yang menampilkan:
 - Vanilla JavaScript untuk interaktivitas (popup, slider galeri, dsb.)
 
 ---
+
+## 💬 Author
+
+✍️ Aqbil (Aqqubirru)
+
+📧 Email: aqbilhasyarasyadi21@gmail.com
+
+📱 Instagram: <a href="https://instagram.com/jbiel.hr" target="_blank">@jbiel.hr</a>
+
+🎵 TikTok: <a href="https://www.tiktok.com/@zebiel21" target="_blank">@zeeb_21</a>
+
+## Funfact
+
+ini adalah template open source yang ada di Github, namun saya edit lagi dan saya ubah menjadi pernikahan Kakak saya karena pada saat itu Kakak saya akan menikah Pada Tanggal 22 Desember 2024
 
 ## 🛠️ How to Run Locally
 
