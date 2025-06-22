@@ -37,6 +37,8 @@ Ini adalah website undangan pernikahan sederhana yang menampilkan:
 
 🎵 TikTok: <a href="https://www.tiktok.com/@zebiel21" target="_blank">@zeeb_21</a>
 
+follow guys :D thanks
+
 ## ✍️ Fun fact
 
 ini adalah template open source yang ada di Github, namun saya ubah lagi lebih banyak untuk pernikahan Kakak saya, karena pada saat itu Kakak saya menikah Pada Tanggal 22 Desember 2024.
