@@ -23,7 +23,7 @@ Ini adalah website undangan pernikahan sederhana yang menampilkan:
 
 - HTML5
 - CSS3 (Bootstrap)
-- Vanilla JavaScript untuk interaktivitas (popup, slider galeri, dsb.)
+- Vanilla JavaScript untuk interaktivitas (popup, slider galeri, dll.)
 
 ---
 
