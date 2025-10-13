@@ -27,7 +27,7 @@ Ini adalah website undangan pernikahan sederhana yang menampilkan:
 
 ---
 
-## 💬 Author
+## Author
 
 ✍️ Aqbil (Aqqubirru)
 
@@ -35,7 +35,7 @@ Ini adalah website undangan pernikahan sederhana yang menampilkan:
 
 📱 Instagram: <a href="https://instagram.com/jbiel.hr" target="_blank">@jbiel.hr</a>
 
-🎵 TikTok: <a href="https://www.tiktok.com/@zebiel21" target="_blank">@zeeb_21</a>
+🎵 TikTok: <a href="https://www.tiktok.com/@balbelbillll" target="_blank">@jbielze</a>
 
 follow guys :D thanks
 
