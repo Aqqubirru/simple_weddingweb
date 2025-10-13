@@ -19,7 +19,7 @@ Ini adalah website undangan pernikahan sederhana yang menampilkan:
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 - HTML5
 - CSS3 (Bootstrap)
