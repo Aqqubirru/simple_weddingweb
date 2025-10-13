@@ -8,7 +8,7 @@
 
 ---
 
-## 🎯 Overview
+## Overview
 
 Ini adalah website undangan pernikahan sederhana yang menampilkan:
 
