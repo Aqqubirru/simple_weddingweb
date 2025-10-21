@@ -39,7 +39,7 @@ Ini adalah website undangan pernikahan sederhana yang menampilkan:
 
 follow guys :D thanks
 
-## ✍️ Fun fact
+## Fun fact
 
-ini adalah template open source yang ada di Github, namun saya improve lagi lebih banyak untuk pernikahan Kakak saya, Karena pada saat itu Kakak saya menikah Pada Tanggal 22 Desember 2024.
+Wedding web yang saya buat untuk pernikahan kakak saya (hanya belajar)
   
