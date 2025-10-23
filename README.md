@@ -1,4 +1,4 @@
-<h1 align="center">💍 Simple Wedding Website</h1>
+<h1 align="center">Simple Wedding Website</h1>
 <h3 align="center">A beautifully crafted wedding invitation website using HTML, CSS & JavaScript</h3>
 
 <p align="center">
