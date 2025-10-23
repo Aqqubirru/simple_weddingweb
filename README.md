@@ -12,7 +12,7 @@
 
 Ini adalah website undangan pernikahan sederhana yang menampilkan:
 
-- 📅 Tanggal dan lokasi acara
+- Tanggal dan lokasi acara
 - Galeri foto moment special
 - Musik tema romantis (opsional) tidak ada namun bisa di tambahkan
 - Form RSVP untuk konfirmasi tamu
